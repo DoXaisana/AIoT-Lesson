@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world! hia do");
+    let name = "GitHub Copilot";
+    println!("Hello, world! hia do, {}!", name);
 }
